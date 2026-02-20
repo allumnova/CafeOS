@@ -1,0 +1,3 @@
+// rider/app.js
+console.log("Rider App Initialized");
+// Rider App Logic...
